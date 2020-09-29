@@ -4,6 +4,7 @@
   "description": "Curso Práctico Avanzado",
   "main": "index.js",
   "scripts": {
+    "vercel-build": "npm run build",
     "build": "webpack",
     "dev": "webpack-dev-server",
     "lint": "standard",
