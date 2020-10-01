@@ -1,10 +1,10 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const List = styled.ul`
   display: flex;
   overflow: scroll;
   width: 100%;
-  &&::-webkit-scrollbar{
+  &&::-webkit-scrollbar {
     display: none;
   }
 `;

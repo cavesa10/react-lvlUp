@@ -1,4 +1,4 @@
-import {createGlobalStyle} from 'styled-components';
+import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyles = createGlobalStyle`
 html {
@@ -19,7 +19,7 @@ ul {
   list-style: none;
 }
 
-button: {
+button {
   background: transparent;
   border: 0;
   outline: 0;

@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Anchor = styled.a`
   display: flex;
@@ -10,7 +10,7 @@ export const Anchor = styled.a`
 
 export const Image = styled.img`
   border: 1px solid #ddd;
-  box-shadow: 0 10px 14px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 14px rgba(0, 0, 0, 0.1);
   border-radius: 50%;
   overflow: hidden;
   object-fit: cover;
